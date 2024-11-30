@@ -1,0 +1,1 @@
+In this folder includes the fintuned BERT model file and the streamlit python code to run the system in localhost, that will able the user to upload multiple resumes and reevent job description and then see the resume score.
